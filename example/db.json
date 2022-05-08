@@ -1,14 +1,38 @@
 {
-  "articles": [
-    {
-      "id": 1,
-      "title": "Example Article",
-      "content": "This is an example."
-    },
-    {
-      "id": 2,
-      "title": "Second Article",
-      "content": "This is also an example."
-    }
-  ]
+ "info":[{
+  "id": 1,
+  "first_name": "Locke",
+  "last_name": "Dunseith",
+  "email": "ldunseith0@hexun.com",
+  "gender": "Male",
+  "ip_address": "202.207.52.17"
+}, {
+  "id": 2,
+  "first_name": "Alley",
+  "last_name": "Feaver",
+  "email": "afeaver1@mayoclinic.com",
+  "gender": "Male",
+  "ip_address": "42.238.247.240"
+}, {
+  "id": 3,
+  "first_name": "Eve",
+  "last_name": "Zimmermeister",
+  "email": "ezimmermeister2@wisc.edu",
+  "gender": "Female",
+  "ip_address": "119.12.176.35"
+}, {
+  "id": 4,
+  "first_name": "Devin",
+  "last_name": "Alexandersen",
+  "email": "dalexandersen3@ocn.ne.jp",
+  "gender": "Male",
+  "ip_address": "149.30.152.210"
+}, {
+  "id": 5,
+  "first_name": "Isidor",
+  "last_name": "Matussow",
+  "email": "imatussow4@forbes.com",
+  "gender": "Male",
+  "ip_address": "43.71.133.104"
+}]
 }
